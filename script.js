@@ -1,7 +1,7 @@
 
 /* =========================
    OWEN GEOVANI
-   LISTA DE REGALO
+   LISTA DE REGALOS
 ========================= */
 
 const gifts = [
@@ -9,16 +9,16 @@ const gifts = [
     {
         name: "Funda protectora RED MAGIC",
         category: "Tecnología",
-        description: "PARA CUIDAR MI TABLET.",
+        description: "Para cuidar la integridad de mi Tablet.",
         price: 270,
         image: "img/protector.jpg",
-        store: "https://l1nq.com/1pr6j10"
+        store: "https://articulo.mercadolibre.com.mx/MLM-2729918981-funda-protectora-mate-mica-para-tablet-redmagic-astra-_JM#is_advertising=true&backend_model=search-backend&be_origin=backend&position=2&search_layout=grid&type=pad&tracking_id=1c3349c6-43f7-4828-b1b8-5cc6ea11f5ea&ad_domain=VQCATCORE_LST&ad_position=2&ad_click_id=ZDVmM2QyZmUtMDc5Zi00OWE4LTk5NTAtODQyODgzNGZhNzNi"
     },
 
     {
         name: "Sueter color negro SHEIN",
         category: "ROPA",
-        description: "UN DISEÑO ELEGANTE Y SENCILLO PARA CUALQUIER OCASION.",
+        description: "Un diseño elegante para cualquier ocasión.",
         price: 251,
         image: "img/sueter.jpg",
         store: "https://onelink.shein.com/60/67y9x1x6oysj?shc=2_RdrimwGjBty"
@@ -27,7 +27,7 @@ const gifts = [
     {
         name: "Perfume Nautica Voyage",
         category: "Cuidado personal",
-        description: "UNA FRAGANCIA ESPECIAL PARA USO DIARIO.",
+        description: "Una fragancia especial para uso diario.",
         price: 347,
         image: "img/perfume.jpg",
         store: "https://www.mercadolibre.com.mx/p/MLM8729166?pdp_filters=item_id%3AMLM3838138892&sid=cart#polycard_client=cart_list&wid=MLM3838138892&sid=cart"
@@ -36,7 +36,7 @@ const gifts = [
     {
         name: "Peluche POCHITA",
         category: "Peluches",
-        description: "UN PELUCHE MUY ABRAZABLE.",
+        description: "Un peluche muy abrazable.",
         price: 151,
         image: "img/pochita.jpg",
         store: "https://www.mercadolibre.com.mx/peluche-chainsaw-man-motosierra-anime-15cm-pochita-naranja/up/MLMU3541708044?pdp_filters=item_id:MLM4323489236#is_advertising=true&searchVariation=MLMU3541708044&backend_model=search-backend&be_origin=backend&position=1&search_layout=grid&type=pad&tracking_id=a1eb0254-9077-4785-8485-3757a432c744&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=YmIyYWU2ZTktZGVhZi00MjM2LWE2YjYtNTA0NzlmNWM5NmZl"
@@ -45,7 +45,7 @@ const gifts = [
     {
         name: "Sueter color negro CIENPIES SHEIN",
         category: "ROPA",
-        description: "UN DISEÑO ELEGANTE.",
+        description: "Epico",
         price: 507,
         image: "img/sueter2.jpg",
         store: "https://onelink.shein.com/57/65b3rk0vz4fo?shc=2_RigFNC1hyzV"
@@ -63,7 +63,7 @@ const gifts = [
     {
         name: "Sueter PAVTROS verde",
         category: "ROPA",
-        description: "UN DISEÑO ELEGANTE.",
+        description: "Cool.",
         price: 232,
         image: "img/sueterpav.jpg",
         store: "https://www.shein.com.mx/Major-Grit-Men-s-Contrast-Graphic-Print-Zip-Up-Stand-Collar-Long-Sleeve-Jacket-Football-p-509674666.html?imgRatio=3-4&detailBusinessFrom=0-1_509674666%7C0-2&src_identifier=on%3DCATEGORY_RECOMMEND_COMPONENT%60cn%3DCATEGORY%60hz%3D-%60jc%3Dreal_2026%60ps%3D2_1_4&src_module=all&src_tab_page_id=page_home1794462143358&mallCode=1&pageListType=4&main_attr=27_112"
@@ -72,7 +72,7 @@ const gifts = [
     {
         name: "Playera PAVTROS",
         category: "ROPA",
-        description: "SE VE CHIDA.",
+        description: "Diseño inovador.",
         price: 175,
         image: "img/playera.jpg",
         store: "https://www.shein.com.mx/PAVTROS-Men-s-Fashionable-Black-And-White-Striped-Short-Sleeve-Shirt-Summer-Streetwear-City-Break-Graphic-Oversized-Matching-Boy-Friend-Valentine-s-Day-Gift-p-434285722.html?imgRatio=3-4&detailBusinessFrom=0-1_434285722%7C0-2&src_identifier=on%3DCATEGORY_RECOMMEND_COMPONENT%60cn%3DCATEGORY%60hz%3D-%60jc%3Dreal_2026%60ps%3D2_1_4&src_module=all&src_tab_page_id=page_home1794462143358&mallCode=1&pageListType=4"
@@ -82,7 +82,7 @@ const gifts = [
     {
         name: "Sueter Gris",
         category: "ROPA",
-        description: "SE VE INTERESANTE.",
+        description: "Interesante.",
         price: 231,
         image: "img/suetergris.jpg",
         store: "https://www.shein.com.mx/Men-s-Oversized-American-Street-Style-Korean-Business-Casual-Commute-Versatile-Striped-Pullover-Knit-Sweater-Loose-Fit-p-179252037.html?imgRatio=3-4&detailBusinessFrom=0-1_179252037%7C0-2&src_identifier=on%3DCATEGORY_RECOMMEND_COMPONENT%60cn%3DCATEGORY%60hz%3D-%60jc%3Dreal_2026%60ps%3D2_1_4&src_module=all&src_tab_page_id=page_home1794462143358&mallCode=1&pageListType=4"
@@ -100,7 +100,7 @@ const gifts = [
     {
         name: "Pantalon Gris",
         category: "ROPA",
-        description: "Muy bonito.",
+        description: "Elegante.",
         price: 210,
         image: "img/pantalon.jpg",
         store: "https://www.shein.com.mx/Manfinity-Hypemode-Men-Simple-Solid-Color-Casual-Trousers-Fashionable-For-Everyday-Wear-For-Ceremony-Formal-p-52668474.html?imgRatio=3-4&detailBusinessFrom=0-1_52668474%7C0-2&src_identifier=st%3D2%60sc%3Dpantalones%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_real_class1794462155344&mallCode=1&pageListType=4"
